@@ -3,6 +3,10 @@ Course name: Machine Learning(Spring 2023)
 Instructor: Lunde Chen  
 Institution: Shanghai University  
 
+### 4/3/2023  
+
+Add the week_3's exercises  
+
 ### 3/29/2023
 Add the week_2's exercises  
 
